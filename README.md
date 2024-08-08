@@ -8,7 +8,3 @@ cd PhoneBook-app
 npm install
 npm run dev
 
-- to run the tests:
-npm run test 
-
-
